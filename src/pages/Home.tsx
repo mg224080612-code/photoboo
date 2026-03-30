@@ -52,7 +52,7 @@ export default function Home() {
           </h1>
           <p className="text-sm text-gray-500">
             GVCS 전용 사진첩에 오신 것을 환영합니다.<br />
-            학교 이메일로 로그인하여 사진을 공유하세요.
+            소중한 추억을 보관하고 공유하세요.
           </p>
         </div>
 
