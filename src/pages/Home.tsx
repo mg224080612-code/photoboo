@@ -33,7 +33,7 @@ export default function Home() {
       // 위의 useEffect를 통해 자동으로 대시보드로 이동합니다.
 
     } catch (error) {
-      console.error('로그인 실패:', error);
+      console.error('*로그인 실패*:', error);
       alert('로그인 중 오류가 발생했습니다. 다시 시도해 주세요.');
     }
   };

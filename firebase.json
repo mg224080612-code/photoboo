@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site" : "photoboo",
+    "site": "photoboo",
     "public": "dist",
     "ignore": [
       "firebase.json",
