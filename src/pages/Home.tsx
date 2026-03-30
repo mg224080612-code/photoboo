@@ -63,7 +63,7 @@ export default function Home() {
             className="group relative flex w-full items-center justify-center space-x-2 rounded-lg border border-gray-300 bg-white px-4 py-3 text-sm font-medium text-gray-700 transition-colors hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
           >
             <LogIn size={20} className="text-gray-400 transition-colors group-hover:text-blue-500" />
-            <span>Google 계정으로 시작하기...</span>
+            <span>Google 계정으로 시작하기!</span>
           </button>
         </div>
 
